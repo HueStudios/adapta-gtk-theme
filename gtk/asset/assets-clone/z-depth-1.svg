@@ -15,7 +15,7 @@
    viewBox="0 0 10 32"
    id="svg4458"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.2 2405546, 2018-03-11"
    sodipodi:docname="z-depth-1.svg">
   <defs
      id="defs4460">
@@ -168,11 +168,11 @@
      inkscape:current-layer="layer1"
      showgrid="false"
      units="px"
-     inkscape:window-width="1179"
-     inkscape:window-height="734"
-     inkscape:window-x="101"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:window-maximized="0" />
+     inkscape:window-maximized="1" />
   <metadata
      id="metadata4463">
     <rdf:RDF>
@@ -181,7 +181,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
         <cc:license
            rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
       </cc:Work>
@@ -230,7 +230,7 @@
        clip-path="url(#clipPath3886-7-9)"
        transform="translate(-15,329.90002)" />
     <rect
-       style="fill:#222d32;fill-opacity:1;fill-rule:nonzero;stroke:#263238;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#232323;fill-opacity:1;fill-rule:nonzero;stroke:#263238;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect2987"
        width="36"
        height="36"
