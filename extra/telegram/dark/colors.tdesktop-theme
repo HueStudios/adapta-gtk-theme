@@ -13,43 +13,43 @@
 // colors for dark-variant
 //
 
-FG_COLOR: #CFD8DC;                              // Main foreground color
-SECONDARY_FG_COLOR: #CFD8DCDE;                  // Secondary foreground color (87%)
-TERTIARY_FG_COLOR: #CFD8DC8A;                   // Tertiary foreground color (54%)
-INSENSITIVE_FG_COLOR: #CFD8DC47;                // Insensitive foreground color (28%)
+FG_COLOR: #CFCFCF;                              // Main foreground color
+SECONDARY_FG_COLOR: #CFCFCFDE;                  // Secondary foreground color (87%)
+TERTIARY_FG_COLOR: #CFCFCF8A;                   // Tertiary foreground color (54%)
+INSENSITIVE_FG_COLOR: #CFCFCF47;                // Insensitive foreground color (28%)
 SELECTED_FG_COLOR: #FFFFFF;                     // Selected foreground color
 2ND_SELECTED_FG_COLOR: #FFFFFFDE;               // Secondary selected foreground color (87%)
-OSD_FG_COLOR: #CFD8DC;                          // Tooltip foreground color
-PLACEHOLDER_COLOR: #78909C;                     // Placeholder foreground color
-FIXED_SECONDARY_FG_COLOR: #263238DE;            // Dark foreground color in dark variant (87%)
+OSD_FG_COLOR: #CFCFCF;                          // Tooltip foreground color
+PLACEHOLDER_COLOR: #A5A5A5;                     // Placeholder foreground color
+FIXED_SECONDARY_FG_COLOR: #232323DE;            // Dark foreground color in dark variant (87%)
 
-ACCENT_LABEL_COLOR: #8DCDC8;                    // Action-area foreground color
-2ND_ACCENT_LABEL_COLOR: #8DCDC8DE;              // Secondary action-area foreground color (87%)
+ACCENT_LABEL_COLOR: #7ECCBE;                    // Action-area foreground color
+2ND_ACCENT_LABEL_COLOR: #7ECCBEDE;              // Secondary action-area foreground color (87%)
 
-BG_COLOR: #263238;                              // Main background color
-BASE_COLOR: #29353B;                            // Entry/Notebook background color
-SECONDARY_BASE_COLOR: #28343A;                  // Popover/Menu background color
-SECONDARY_DARK_COLOR: #243035;                  // Inline-toolbar background color
-DARK_COLOR: #222D32;                            // WindowFrame background color
+BG_COLOR: #232323;                              // Main background color
+BASE_COLOR: #4F4F4F;                            // Entry/Notebook background color
+SECONDARY_BASE_COLOR: #4F4F4F;                  // Popover/Menu background color
+SECONDARY_DARK_COLOR: #232323;                  // Inline-toolbar background color
+DARK_COLOR: #232323;                            // WindowFrame background color
 
-SEMI_FILL_COLOR: #39454B;                       // Hovered button background color (Bg + 12%)
-FILL_COLOR: #4F5B60;                            // Active button/ripple background color (Bg + 25%)
-ACCENT_FILL_COLOR: #2A4145;                     // Hovered button accent color (Bg + 12%)
-ACCENT_ACTIVE_FILL_COLOR: #2F5254;              // Active button/ripple accent color (Bg + 25%)
-OSD_BG_COLOR: #222D32E5;                        // Tooltip background color (90%)
-SUGGESTED_HOVER_COLOR: #19A094;                 // Hovered suggested action color
-SUGGESTED_ACTIVE_COLOR: #33ABA0;                // Active/ripple suggested action color
-DESTRUCTIVE_FILL_COLOR: #3F353B;                // Hovered destructive action color (Bg + 12%)
-DESTRUCTIVE_ACTIVE_FILL_COLOR: #5B393E;         // Active/ripple destructive action color (Bg + 25%)
+SEMI_FILL_COLOR: #353535;                       // Hovered button background color (Bg + 12%)
+FILL_COLOR: #4F4F4F;                            // Active button/ripple background color (Bg + 25%)
+ACCENT_FILL_COLOR: #353535;                     // Hovered button accent color (Bg + 12%)
+ACCENT_ACTIVE_FILL_COLOR: #4F4F4F;              // Active button/ripple accent color (Bg + 25%)
+OSD_BG_COLOR: #343434E5;                        // Tooltip background color (90%)
+SUGGESTED_HOVER_COLOR: #42A896;                 // Hovered suggested action color
+SUGGESTED_ACTIVE_COLOR: #42A896;                // Active/ripple suggested action color
+DESTRUCTIVE_FILL_COLOR: #353535;                // Hovered destructive action color (Bg + 12%)
+DESTRUCTIVE_ACTIVE_FILL_COLOR: #4F4F4F;         // Active/ripple destructive action color (Bg + 25%)
 
-SELECTED_BG_COLOR: #00BCD4;                     // Primary color
-ACCENT_COLOR: #4DB6AC;                          // Secondary color
-SUGGESTED_COLOR: #009688;                       // Suggested action color
-DESTRUCTIVE_COLOR: #FF5252;                     // Destructive action color
-LINK_COLOR: #55BCEA;
-WARNING_COLOR: #FF9800;
-ERROR_COLOR: #F44336;
-SUCCESS_COLOR: #00E676;
+SELECTED_BG_COLOR: #42A896;                     // Primary color
+ACCENT_COLOR: #42A896;                          // Secondary color
+SUGGESTED_COLOR: #42A896;                       // Suggested action color
+DESTRUCTIVE_COLOR: #B13C3D;                     // Destructive action color
+LINK_COLOR: #7ECCBE;
+WARNING_COLOR: #B1943C;
+ERROR_COLOR: #B13C3D;
+SUCCESS_COLOR: #78B13C;
 
 SOLID_BLACK: #000000;
 70_BLACK: #000000B2;                            // Deep shadows (70%)
@@ -57,15 +57,15 @@ SOLID_BLACK: #000000;
 30_BLACK: #0000004D;                            // Light shadows (30%)
 10_BLACK: #0000001A;                            // Frames and separator color (10%)
 TRANSPARENT: #00000000;
-SOLID_WHITE: #FFFFFF;
-RED: #F44336;
-YELLOW: #FFEB3B;
-GREEN: #4CAF50;
-BLUE: #2196F3;
+SOLID_WHITE: #CFCFCFFF;
+RED: #B13C3D;
+YELLOW: #B1943C;
+GREEN: #78B13C;
+BLUE: #3C48B1;
 
-SCROLLBAR_BG: #29353B8C;                        // Trough color (55%)
-SCROLLBAR_SLIDER_BG: #CFD8DC47;                 // Slider color (28%)
-SCROLLBAR_SLIDER_HOVER_BG: #CFD8DC69;           // Hovered slider color (41%)
+SCROLLBAR_BG: #2323238C;                        // Trough color (55%)
+SCROLLBAR_SLIDER_BG: #CFCFCF47;                 // Slider color (28%)
+SCROLLBAR_SLIDER_HOVER_BG: #CFCFCF69;           // Hovered slider color (41%)
 
 //
 // basic
@@ -325,22 +325,22 @@ historyUnreadBarFg: FG_COLOR;
 historyForwardChooseBg: 30_BLACK;               // "Choose recipient" BACKGROUND color (forwarding)
 historyForwardChooseFg: FG_COLOR;               // "Choose recipient" TEXT color (forwarding)
 
-historyPeer1NameFg: #ff9100;                    // Group chat sender name - Orange
-historyPeer1UserpicBg: #e17076;
-historyPeer2NameFg: #4fad2d;                    // Green
-historyPeer2UserpicBg: #7bc862;
-historyPeer3NameFg: #d09306;                    // Gold
-historyPeer3UserpicBg: #e5ca77;
-historyPeer4NameFg: #15cd7d;                    // Light green
-historyPeer4UserpicBg: #65aadd;
-historyPeer5NameFg: #9a4ff7;                    // Violet
-historyPeer5UserpicBg: #a695e7;
-historyPeer6NameFg: #cd4073;                    // "Raspberry"
-historyPeer6UserpicBg: #ee7aae;
-historyPeer7NameFg: #2996ad;                    // Cyan
-historyPeer7UserpicBg: #6ec9cb;
-historyPeer8NameFg: #ce671b;                    // One more orange?!
-historyPeer8UserpicBg: #faa774;
+historyPeer1NameFg: #B1943C;                    // Group chat sender name - Orange
+historyPeer1UserpicBg: #D27878;
+historyPeer2NameFg: #78B13C;                    // Green
+historyPeer2UserpicBg: #A7D179;
+historyPeer3NameFg: #B1943C;                    // Gold
+historyPeer3UserpicBg: #D1BB79;
+historyPeer4NameFg: #A6D179;                    // Light green
+historyPeer4UserpicBg: #7ECCBE;
+historyPeer5NameFg: #963CB1;                    // Violet
+historyPeer5UserpicBg: #bd79d1;
+historyPeer6NameFg: #d27878;                    // "Raspberry"
+historyPeer6UserpicBg: #d27878;
+historyPeer7NameFg: #42a896;                    // Cyan
+historyPeer7UserpicBg: #7eccbe;
+historyPeer8NameFg: #b16e3c;                    // One more orange?!
+historyPeer8UserpicBg: #d27878;
 historyPeerUserpicFg: SOLID_WHITE;
 
 historyScrollBarBg: scrollBarBg;                // Scrollbar (history view) background
@@ -395,22 +395,22 @@ msgFileOutBg: msgFileInBg;
 msgFileOutBgOver: msgFileInBgOver;
 msgFileOutBgSelected: msgFileInBgSelected;
 
-msgFile1Bg: #72b1df;
-msgFile1BgDark: #5c9ece;
-msgFile1BgOver: #5294c4;
-msgFile1BgSelected: #5099d0;
-msgFile2Bg: #61b96e;
-msgFile2BgDark: #4da859;
-msgFile2BgOver: #44a050;
-msgFile2BgSelected: #46a07e;
-msgFile3Bg: #e47272;
-msgFile3BgDark: #cd5b5e;
-msgFile3BgOver: #c35154;
-msgFile3BgSelected: #9f6a82;
-msgFile4Bg: #efc274;
-msgFile4BgDark: #e6a561;
-msgFile4BgOver: #dc9c5a;
-msgFile4BgSelected: #b19d84;
+msgFile1Bg: #7eccbe;
+msgFile1BgDark: #42a896;
+msgFile1BgOver: #42a896;
+msgFile1BgSelected: #42a896;
+msgFile2Bg: #a6d179;
+msgFile2BgDark: #78b13c;
+msgFile2BgOver: #78b13c;
+msgFile2BgSelected: #42a896;
+msgFile3Bg: #d27878;
+msgFile3BgDark: #b13c3d;
+msgFile3BgOver: #b13c3d;
+msgFile3BgSelected: #bd79d1;
+msgFile4Bg: #d1bb79;
+msgFile4BgDark: #b1943c;
+msgFile4BgOver: #b1943c;
+msgFile4BgSelected: #d1bb79;
 
 historyFileInIconFg: FG_COLOR;                     // Uploading/downloading icons?
 historyFileInIconFgSelected: SELECTED_FG_COLOR;
