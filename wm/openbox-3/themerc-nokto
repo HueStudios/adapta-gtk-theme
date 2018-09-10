@@ -120,11 +120,11 @@ window.inactive.button.disabled.image.color: #3B464B
 menu.border.color: #212B30
 
 menu.title.bg: flat solid
-menu.title.bg.color: #28343A
+menu.title.bg.color: #222222
 menu.title.text.color: #828C91
 
 menu.items.bg: flat solid
-menu.items.bg.color: #28343A
+menu.items.bg.color: #222222
 menu.items.text.color: #B9C2C7
 menu.items.disabled.text.color: #566067
 

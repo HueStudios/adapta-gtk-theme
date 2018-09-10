@@ -81,7 +81,7 @@ $base_color: if($variant == light,
                 #FFFFFF,                                        // = White
                 mix(#232323, #37474F, 85%));                    // = #29353B
 $secondary_base_color: mix($base_color, $bg_color, 50%);        // = #FDFDFE
-                                                                // = #28343A
+                                                                // = #222222
 $light_color: if($variant == light,
                  $base_color,                                   // = White
                  mix(#232323, #37474F, 50%));                   // = #2F3D44
