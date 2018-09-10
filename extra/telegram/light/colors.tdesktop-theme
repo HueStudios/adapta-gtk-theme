@@ -64,7 +64,7 @@ SOLID_WHITE: #FFFFFF;
 RED: #F44336;
 YELLOW: #FFEB3B;
 GREEN: #4CAF50;
-BLUE: #2196F3;
+BLUE: #232323;
 
 SCROLLBAR_BG: #FFFFFF8C;                        // Trough color (55%)
 SCROLLBAR_SLIDER_BG: #23232347;                 // Slider color (28%)
@@ -340,7 +340,7 @@ historyPeer5NameFg: #9a4ff7;                    // Violet
 historyPeer5UserpicBg: #a695e7;
 historyPeer6NameFg: #cd4073;                    // "Raspberry"
 historyPeer6UserpicBg: #ee7aae;
-historyPeer7NameFg: #2996ad;                    // Cyan
+historyPeer7NameFg: #232323;                    // Cyan
 historyPeer7UserpicBg: #6ec9cb;
 historyPeer8NameFg: #ce671b;                    // One more orange?!
 historyPeer8UserpicBg: #faa774;
