@@ -39,7 +39,7 @@ SEMI_FILL_COLOR: #E1E3E4;                       // Hovered button background col
 FILL_COLOR: #C5C9CB;                            // Active button/ripple background color (Bg + 25%)
 ACCENT_FILL_COLOR: #E5F2F2;                     // Hovered button accent color (Bg + 12%)
 ACCENT_ACTIVE_FILL_COLOR: #CFE9E8;              // Active button/ripple accent color (Bg + 25%)
-OSD_BG_COLOR: #222D32E5;                        // Tooltip background color (90%)
+OSD_BG_COLOR: #222222E5;                        // Tooltip background color (90%)
 SUGGESTED_HOVER_COLOR: #19A094;                 // Hovered suggested action color
 SUGGESTED_ACTIVE_COLOR: #33ABA0;                // Active/ripple suggested action color
 DESTRUCTIVE_FILL_COLOR: #FEE7E8;                // Hovered destructive action color (Bg + 12%)

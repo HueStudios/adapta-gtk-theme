@@ -292,7 +292,7 @@ Extra Browser Support
  >     Background: #FAFBFC (#232323)
  >     Foreground: #232323 (#CFCFCF)
  >     Highlight:  #00BCD4
- >     Accent:     #222D32
+ >     Accent:     #222222
  >     Accent Color from Active Page: [ ]
  >     Apply Accent Color to Window:  [*]
  >     Transparent Tabs:              [*]

@@ -87,7 +87,7 @@ $light_color: if($variant == light,
                  mix(#232323, #37474F, 50%));                   // = #2F3D44
 $dark_color: if($variant == light,
                 mix(#ECEFF1, #CFCFCF, 75%),                     // = #E5E9EC
-                mix(#232323, #000000, 90%));                    // = #222D32
+                mix(#232323, #000000, 90%));                    // = #222222
 $secondary_dark_color: if($variant == light,
                           mix(#FFFFFF, #ECEFF1, 60%),           // = #F7F9F9
                           mix(#232323, #000000, 95%));          // = #243035
@@ -100,7 +100,7 @@ $secondary_dark_color: if($variant == light,
 $inverted_bg_color: #232323;                                    // = BluGry900
 $inverted_base_color: mix(#232323, #37474F, 85%);               // = #29353B
 $inverted_light_color: mix(#232323, #37474F, 50%);              // = #2F3D44
-$inverted_dark_color: mix(#232323, #000000, 90%);               // = #222D32
+$inverted_dark_color: mix(#232323, #000000, 90%);               // = #222222
 
 
 //
