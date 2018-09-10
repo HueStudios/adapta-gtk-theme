@@ -15,7 +15,7 @@
    viewBox="0 0 32 32"
    id="svg5386"
    version="1.1"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   inkscape:version="0.92.2 2405546, 2018-03-11"
    sodipodi:docname="menu.svg">
   <defs
      id="defs5388">
@@ -23,11 +23,11 @@
        inkscape:collect="always"
        id="linearGradient892-7">
       <stop
-         style="stop-color:#2c383e;stop-opacity:1"
+         style="stop-color:#353535;stop-opacity:1"
          offset="0"
          id="stop888" />
       <stop
-         style="stop-color:#28343a;stop-opacity:1"
+         style="stop-color:#313131;stop-opacity:1"
          offset="1"
          id="stop890" />
     </linearGradient>
@@ -141,8 +141,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="15.999999"
-     inkscape:cx="-3.1557969"
-     inkscape:cy="15.214263"
+     inkscape:cx="-17.624548"
+     inkscape:cy="15.245513"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -152,9 +152,9 @@
      inkscape:bbox-nodes="true"
      inkscape:snap-bbox-edge-midpoints="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1022"
+     inkscape:window-height="1023"
      inkscape:window-x="0"
-     inkscape:window-y="32"
+     inkscape:window-y="0"
      inkscape:window-maximized="1">
     <inkscape:grid
        type="xygrid"
@@ -217,7 +217,7 @@
          height="20.002066"
          width="21.002064"
          id="rect832"
-         style="opacity:1;fill:#28343a;fill-opacity:1;fill-rule:evenodd;stroke:url(#linearGradient896);stroke-width:0.99793488;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         style="opacity:1;fill:#313131;fill-opacity:1;fill-rule:evenodd;stroke:url(#linearGradient896);stroke-width:0.99793488;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </g>
   </g>
 </svg>
