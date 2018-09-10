@@ -10,8 +10,8 @@
 
 <!-- meaningfull constants -->
 
-<constant name="C_title_focused" value="#CFD8DC" />
-<constant name="C_title_unfocused" value="blend/#222D32/#CFD8DC/0.4" />
+<constant name="C_title_focused" value="#CFCFCF" />
+<constant name="C_title_unfocused" value="blend/#242424/#CFCFCF/0.4" />
 <constant name="D_icons_unfocused_offset" value="0" /> <!-- offset of the unfocused icons -->
 
 <!-- geometries -->
@@ -316,7 +316,7 @@
 
 <draw_ops name="appmenu_icon_focused">
 	<icon
-		x="(width-D_appmenu_icon_size)/2" y="(height-D_appmenu_icon_size)/2" 
+		x="(width-D_appmenu_icon_size)/2" y="(height-D_appmenu_icon_size)/2"
 		width="D_appmenu_icon_size" height="D_appmenu_icon_size" />
 </draw_ops>
 
@@ -326,7 +326,7 @@
 
 <draw_ops name="appmenu_icon_unfocused">
 	<icon
-		x="(width-D_appmenu_icon_size)/2" y="(height-D_appmenu_icon_size)/2" 
+		x="(width-D_appmenu_icon_size)/2" y="(height-D_appmenu_icon_size)/2"
 		width="D_appmenu_icon_size" height="D_appmenu_icon_size"
 		alpha="0.4"/>
 </draw_ops>
@@ -337,7 +337,7 @@
 
 <draw_ops name="appmenu_icon_focused_pressed">
 	<icon
-		x="(width-D_appmenu_icon_size)/2" y="(height-D_appmenu_icon_size)/2" 
+		x="(width-D_appmenu_icon_size)/2" y="(height-D_appmenu_icon_size)/2"
 		width="D_appmenu_icon_size" height="D_appmenu_icon_size"
 		alpha="0.6"/>
 </draw_ops>
@@ -442,7 +442,7 @@
 	<button function="unshade" state="normal" draw_ops="unshade_focused" />
 	<button function="unshade" state="prelight" draw_ops="unshade_focused_prelight" />
 	<button function="unshade" state="pressed" draw_ops="unshade_focused_pressed" />
-	
+
 	<button function="left_middle_background" state="pressed" draw_ops="button_pressed"/>
 	<button function="left_middle_background" state="prelight" draw_ops="button_prelight"/>
 	<button function="right_middle_background" state="pressed" draw_ops="button_pressed"/>
@@ -480,7 +480,7 @@
 	<button function="unshade" state="normal" draw_ops="unshade_unfocused" />
 	<button function="unshade" state="prelight" draw_ops="unshade_unfocused_prelight" />
 	<button function="unshade" state="pressed" draw_ops="unshade_unfocused_pressed" />
-	
+
 	<button function="left_middle_background" state="pressed" draw_ops="button_pressed"/>
 	<button function="left_middle_background" state="prelight" draw_ops="button_prelight"/>
 	<button function="right_middle_background" state="pressed" draw_ops="button_pressed"/>
