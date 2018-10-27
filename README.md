@@ -4,10 +4,13 @@
 An adaptive Gtk+ theme based on Material Design Guidelines.
 
 
-02 Sep 2018
+04 Oct 2018
 -----------
-# [Important]
-# Today, I locked "Issues", "Pull Requests" and all of our daily developments for current 3.94 series until next-gen lands.
+ * Re-lock issues until we hunt a new maintainer (owner) of this project.
+
+02 Oct 2018
+-----------
+ * Reverted all changes to 3.94.0.x.
 
 Before using Adapta
 -------------------
@@ -289,8 +292,8 @@ Extra Browser Support
  >
  >   * Vivaldi can make custom themes via settings like these:
  >     ```
- >     Background: #FAFBFC (#232323)
- >     Foreground: #232323 (#CFCFCF)
+ >     Background: #FBFBFB (#262626)
+ >     Foreground: #262626 (#DBDBDB)
  >     Highlight:  #00BCD4
  >     Accent:     #222222
  >     Accent Color from Active Page: [ ]
@@ -363,13 +366,9 @@ This is a list of community projects, related to Adapta:
 
 Work in Progress
 ----------------
-* Performance tuning
-* Conversion to Gtk+ 4.0
 
 TODO
 ----
-* Prepare for Meson build system (priority: high)
-* Prepare for x3 scaling (priority: mid or low)
 
 Public License
 --------------
@@ -383,8 +382,9 @@ Public License
 
 Donations
 ---------
- [**My Patreon Page**](https://www.patreon.com/tista500)
 
 Special Thanks to
 --------------
  Nana-4, the developer of Materia (formerly Flat-Plat).
+
+ And all supporters, thank you.

@@ -5,20 +5,20 @@
   <description>Gedit material theme matched for Adapta GTK theme.</description>
 
   <!-- Color Palette -->
-  <color name="adapta0"                     value="#232323" />
-  <color name="adapta1"                     value="#242424" />
-  <color name="adapta2"                     value="#4F4F4F" />
-  <color name="adapta3"                     value="#4F4F4F" />
-  <color name="adapta4"                     value="#CFCFCF" />
-  <color name="adapta5"                     value="#7ECCBE" />
-  <color name="adapta6"                     value="#D27878" />
-  <color name="adapta7"                     value="#7ECCBE" />
-  <color name="adapta8"                     value="#D1BB79" />
-  <color name="adapta9"                     value="#D1BB79" />
-  <color name="adapta10"                    value="#D1BB79" />
-  <color name="adapta11"                    value="#A6D179" />
-  <color name="adapta12"                    value="#BD79D1" />
-  <color name="adapta13"                    value="#232323" />
+  <color name="adapta0"                     value="#222222" />
+  <color name="adapta1"                     value="#3A3A3A" />
+  <color name="adapta2"                     value="#0B9BAF" />
+  <color name="adapta3"                     value="#5b5b5b" />
+  <color name="adapta4"                     value="#DBDBDB" />
+  <color name="adapta5"                     value="#1DE9B6" />
+  <color name="adapta6"                     value="#F77669" />
+  <color name="adapta7"                     value="#00BCD4" />
+  <color name="adapta8"                     value="#009587" />
+  <color name="adapta9"                     value="#AB7967" />
+  <color name="adapta10"                    value="#FFCB6B" />
+  <color name="adapta11"                    value="#C3E88D" />
+  <color name="adapta12"                    value="#C792EA" />
+  <color name="adapta13"                    value="#383838" />
 
   <!-- GUI Styling -->
   <style name="background-pattern"          background="adapta1" />
@@ -347,12 +347,12 @@
   <style name="xml:tag"                     use-style="def:tag" />
 
   <!-- Meld -->
-  <style name="meld:insert" foreground="adapta4" background="#rgba(126, 204, 190, 0.1)" line-background="#rgba(126, 204, 190, 0.1)" />
-  <style name="meld:replace" foreground="adapta4" background="#rgba(66, 168, 150, 0.1)" line-background="#rgba(66, 168, 150, 0.1)" />
-  <style name="meld:conflict" foreground="adapta4" background="#rgba(177, 60, 61, 0.1)" line-background="#rgba(177, 60, 61, 0.1)" />
-  <style name="meld:current-line-highlight" background="#rgba(207, 207, 207, 0.1)" />
-  <style name="meld:current-chunk-highlight" background="#rgba(207, 207, 207, 0.1)" />
-  <style name="meld:inline" background="#rgba(66, 168, 150, 0.4)" />
+  <style name="meld:insert" foreground="adapta4" background="#rgba(77, 182, 172, 0.1)" line-background="#rgba(77, 182, 172, 0.1)" />
+  <style name="meld:replace" foreground="adapta4" background="#rgba(3, 169, 244, 0.1)" line-background="#rgba(3, 169, 244, 0.1)" />
+  <style name="meld:conflict" foreground="adapta4" background="#rgba(244, 67, 54, 0.1)" line-background="#rgba(244, 67, 54, 0.1)" />
+  <style name="meld:current-line-highlight" background="#rgba(203, 216, 220, 0.1)" />
+  <style name="meld:current-chunk-highlight" background="#rgba(203, 216, 220, 0.1)" />
+  <style name="meld:inline" background="#rgba(3, 169, 244, 0.4)" />
   <style name="meld:unknown-text" foreground="adapta4" />
   <style name="meld:dimmed" foreground="adapta3" />
 

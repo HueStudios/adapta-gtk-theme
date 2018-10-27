@@ -16,7 +16,7 @@
    height="16"
    id="svg7384"
    version="1.1"
-   inkscape:version="0.92.2 2405546, 2018-03-11"
+   inkscape:version="0.92.1 r15371"
    width="16">
   <metadata
      id="metadata90">
@@ -53,7 +53,7 @@
      bordercolor="#666666"
      borderopacity="1"
      inkscape:current-layer="layer12"
-     inkscape:cx="-41.447069"
+     inkscape:cx="-0.52326348"
      inkscape:cy="6.3332332"
      gridtolerance="10"
      inkscape:guide-bbox="true"
@@ -62,7 +62,7 @@
      inkscape:object-nodes="true"
      inkscape:object-paths="false"
      objecttolerance="10"
-     pagecolor="#3a3b39"
+     pagecolor="#3A3A3A"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      showborder="false"
@@ -75,11 +75,11 @@
      inkscape:snap-nodes="true"
      inkscape:snap-others="false"
      inkscape:snap-to-guides="true"
-     inkscape:window-height="1023"
+     inkscape:window-height="710"
      inkscape:window-maximized="1"
-     inkscape:window-width="1920"
+     inkscape:window-width="1366"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="32"
      inkscape:zoom="5.6568542">
     <inkscape:grid
        dotted="false"
@@ -155,6 +155,6 @@
        d="m 307.0002,820 5,-5 -5,-5 z"
        id="path6412"
        sodipodi:nodetypes="cccc"
-       style="fill:#d5d5d5;fill-opacity:1;stroke:none" />
+       style="fill:#DBDBDB;fill-opacity:1;stroke:none" />
   </g>
 </svg>

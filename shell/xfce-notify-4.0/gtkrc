@@ -12,14 +12,14 @@
 style "notify-window"
 {
   XfceNotifyWindow::summary-bold = 1
-  XfceNotifyWindow::border-color = "#242424"
-  XfceNotifyWindow::border-color-hover = "#242424"
+  XfceNotifyWindow::border-color = "#222222"
+  XfceNotifyWindow::border-color-hover = "#222222"
   XfceNotifyWindow::border-radius = 2.0
   XfceNotifyWindow::border-width = 0.1
   XfceNotifyWindow::border-width-hover = 0.1
 
-  bg[NORMAL] = "#242424"
-  bg[PRELIGHT] = "#242424"
+  bg[NORMAL] = "#222222"
+  bg[PRELIGHT] = "#222222"
 }
 
 style "notify-button"
@@ -27,9 +27,9 @@ style "notify-button"
   xthickness = 5
   ythickness = 5
 
-  # bg[NORMAL] = "#242424"
-  # bg[PRELIGHT] = "#242424"
-  # bg[ACTIVE] = "#242424"
+  # bg[NORMAL] = "#222222"
+  # bg[PRELIGHT] = "#222222"
+  # bg[ACTIVE] = "#222222"
   fg[NORMAL] = "#47A49C"
   fg[PRELIGHT] = "#4DB6AC"
   fg[ACTIVE] = "#4DB6AC"
@@ -63,7 +63,7 @@ style "notify-text"
 {
   GtkWidget::link-color = "#03A9F4"
 
-  fg[NORMAL] = "#CFCFCF"
+  fg[NORMAL] = "#DBDBDB"
   fg[PRELIGHT] = "#FFFFFF"
 }
 
@@ -79,10 +79,10 @@ style "notify-progressbar"
   xthickness   = 0
   ythickness   = 0
 
-  bg[NORMAL]   = "#F0F2F3"
-  bg[SELECTED] = "#F0F2F3"
+  bg[NORMAL]   = "#F2F2F2"
+  bg[SELECTED] = "#F2F2F2"
   bg[ACTIVE]   = "#4DB6AC"
-  fg[PRELIGHT] = "#242424"
+  fg[PRELIGHT] = "#262626"
 }
 
 class "XfceNotifyWindow"                           style "notify-window"

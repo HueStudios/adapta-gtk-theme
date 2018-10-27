@@ -1,18 +1,18 @@
 #
 # Colour scheme
 #
-gtk-color-scheme = "base_color:#4f4f4f\nbg_color:#242424"
-gtk-color-scheme = "text_color:#CFCFCF\nfg_color:#CFCFCF"
+gtk-color-scheme = "base_color:#383838\nbg_color:#262626"
+gtk-color-scheme = "text_color:#DBDBDB\nfg_color:#DBDBDB"
 gtk-color-scheme = "selected_bg_color:#00BCD4\nselected_fg_color:#FFFFFF"
-gtk-color-scheme = "tooltip_bg_color:#242424\ntooltip_fg_color:#CFCFCF"
+gtk-color-scheme = "tooltip_bg_color:#222222\ntooltip_fg_color:#DBDBDB"
 gtk-color-scheme = "link_color:#55BCEA\nvisited_link_color:#B06EC2"
-gtk-color-scheme = "inverted_dark_color:#242424\ninverted_fg_color:#CFCFCF"
-gtk-color-scheme = "scroll_slider_color:#A5A5A5\nscroll_slider_prelight_color:#A5A5A5"
-gtk-color-scheme = "panel_bg_color:#242424"
-gtk-color-scheme = "secondary_dark_color:#242424"
+gtk-color-scheme = "inverted_dark_color:#222222\ninverted_fg_color:#DBDBDB"
+gtk-color-scheme = "scroll_slider_color:#C1C1C1\nscroll_slider_prelight_color:#A0A0A0"
+gtk-color-scheme = "panel_bg_color:#191919"
+gtk-color-scheme = "secondary_dark_color:#3A3A3A"
 gtk-color-scheme = "solid_white:#FFFFFF"
 gtk-color-scheme = "accent_color:#4DB6AC"
-gtk-color-scheme = "light_color:"
+gtk-color-scheme = "light_color:#2F3D44"
 
 
 #

@@ -10,8 +10,8 @@
 
 <!-- meaningfull constants -->
 
-<constant name="C_title_focused" value="#CFCFCF" />
-<constant name="C_title_unfocused" value="blend/#242424/#CFCFCF/0.4" />
+<constant name="C_title_focused" value="#DBDBDB" />
+<constant name="C_title_unfocused" value="blend/#222222/#DBDBDB/0.4" />
 <constant name="D_icons_unfocused_offset" value="0" /> <!-- offset of the unfocused icons -->
 
 <!-- geometries -->
@@ -93,7 +93,7 @@
 <!-- normal state -->
 <draw_ops name="entire_background_focused">
 	<rectangle color="#222222" x="0" y="0" width="width" height="height" filled="true" />
-	<line color="#232323" x1="1" y1="0" x2="width-2" y2="0" />
+	<line color="#383838" x1="1" y1="0" x2="width-2" y2="0" />
 </draw_ops>
 
 <draw_ops name="entire_background_unfocused">
@@ -156,7 +156,7 @@
 <!-- tiled state -->
 <draw_ops name="tiled_left_entire_background_focused">
 	<rectangle color="#222222" x="0" y="0" width="width" height="height" filled="true" />
-	<line color="#13191C" x1="width-1" y1="0" x2="width-1" y2="height" />
+	<line color="#191919" x1="width-1" y1="0" x2="width-1" y2="height" />
 </draw_ops>
 
 <draw_ops name="tiled_left_entire_background_unfocused">
@@ -173,7 +173,7 @@
 
 <draw_ops name="tiled_right_entire_background_focused">
 	<rectangle color="#222222" x="0" y="0" width="width" height="height" filled="true" />
-	<line color="#13191C" x1="0" y1="0" x2="0" y2="height" />
+	<line color="#191919" x1="0" y1="0" x2="0" y2="height" />
 </draw_ops>
 
 <draw_ops name="tiled_right_entire_background_unfocused">
@@ -316,7 +316,7 @@
 
 <draw_ops name="appmenu_icon_focused">
 	<icon
-		x="(width-D_appmenu_icon_size)/2" y="(height-D_appmenu_icon_size)/2"
+		x="(width-D_appmenu_icon_size)/2" y="(height-D_appmenu_icon_size)/2" 
 		width="D_appmenu_icon_size" height="D_appmenu_icon_size" />
 </draw_ops>
 
@@ -326,7 +326,7 @@
 
 <draw_ops name="appmenu_icon_unfocused">
 	<icon
-		x="(width-D_appmenu_icon_size)/2" y="(height-D_appmenu_icon_size)/2"
+		x="(width-D_appmenu_icon_size)/2" y="(height-D_appmenu_icon_size)/2" 
 		width="D_appmenu_icon_size" height="D_appmenu_icon_size"
 		alpha="0.4"/>
 </draw_ops>
@@ -337,7 +337,7 @@
 
 <draw_ops name="appmenu_icon_focused_pressed">
 	<icon
-		x="(width-D_appmenu_icon_size)/2" y="(height-D_appmenu_icon_size)/2"
+		x="(width-D_appmenu_icon_size)/2" y="(height-D_appmenu_icon_size)/2" 
 		width="D_appmenu_icon_size" height="D_appmenu_icon_size"
 		alpha="0.6"/>
 </draw_ops>
@@ -442,7 +442,7 @@
 	<button function="unshade" state="normal" draw_ops="unshade_focused" />
 	<button function="unshade" state="prelight" draw_ops="unshade_focused_prelight" />
 	<button function="unshade" state="pressed" draw_ops="unshade_focused_pressed" />
-
+	
 	<button function="left_middle_background" state="pressed" draw_ops="button_pressed"/>
 	<button function="left_middle_background" state="prelight" draw_ops="button_prelight"/>
 	<button function="right_middle_background" state="pressed" draw_ops="button_pressed"/>
@@ -480,7 +480,7 @@
 	<button function="unshade" state="normal" draw_ops="unshade_unfocused" />
 	<button function="unshade" state="prelight" draw_ops="unshade_unfocused_prelight" />
 	<button function="unshade" state="pressed" draw_ops="unshade_unfocused_pressed" />
-
+	
 	<button function="left_middle_background" state="pressed" draw_ops="button_pressed"/>
 	<button function="left_middle_background" state="prelight" draw_ops="button_prelight"/>
 	<button function="right_middle_background" state="pressed" draw_ops="button_pressed"/>
