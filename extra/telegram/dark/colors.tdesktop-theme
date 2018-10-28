@@ -28,8 +28,8 @@ ACCENT_LABEL_COLOR: #8DCDC8;                    // Action-area foreground color
 
 BG_COLOR: #262626;                              // Main background color
 BASE_COLOR: #383838;                            // Entry/Notebook background color
-SECONDARY_BASE_COLOR: #3a3a3a;                  // Popover/Menu background color
-SECONDARY_DARK_COLOR: #3A3A3A;                  // Inline-toolbar background color
+SECONDARY_BASE_COLOR: #2b2b2b;                  // Popover/Menu background color
+SECONDARY_DARK_COLOR: #2b2b2b;                  // Inline-toolbar background color
 DARK_COLOR: #222222;                            // WindowFrame background color
 
 SEMI_FILL_COLOR: #39454B;                       // Hovered button background color (Bg + 12%)
